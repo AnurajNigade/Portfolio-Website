@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: [ "Front End Developer", "Pursuing my BE degree in Computer Engineering "],
+        strings: [ "Software Engineer", "Pursuing my BE degree in Computer Engineering "],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Front End Developer", "Pursuing my BE degree in Computer Engineering "],
+        strings: ["Software Engineer", "Pursuing my BE degree in Computer Engineering "],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
